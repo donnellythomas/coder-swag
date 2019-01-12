@@ -19,9 +19,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SHOP BY CATEGORY" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="q9A-gU-r5G">
-                                <rect key="frame" x="20" y="30" width="171" height="23.5"/>
+                                <rect key="frame" x="20" y="30" width="166" height="23.5"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="171" id="bVW-xL-zey"/>
+                                    <constraint firstAttribute="width" constant="166" id="bVW-xL-zey"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Avenir-Book" family="Avenir" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -49,8 +49,6 @@
                                                 </label>
                                             </subviews>
                                             <constraints>
-                                                <constraint firstAttribute="bottom" secondItem="Gbw-YZ-FOK" secondAttribute="bottom" id="4ZO-DC-6xw"/>
-                                                <constraint firstItem="Gbw-YZ-FOK" firstAttribute="top" secondItem="bIY-z0-7KF" secondAttribute="top" id="F1m-fn-Cbw"/>
                                                 <constraint firstItem="Gbw-YZ-FOK" firstAttribute="leading" secondItem="bIY-z0-7KF" secondAttribute="leading" id="VoZ-XW-FKO"/>
                                                 <constraint firstAttribute="bottom" secondItem="Gbw-YZ-FOK" secondAttribute="bottom" constant="3" id="eDS-PX-gCj"/>
                                                 <constraint firstItem="mpv-wK-G06" firstAttribute="centerY" secondItem="bIY-z0-7KF" secondAttribute="centerY" id="jW5-Pr-JkW"/>
